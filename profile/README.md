@@ -21,7 +21,7 @@
 
 我们选择做减法。借助 AI 跨越底层开发的技术门槛，重拾古典软件的克制审美与原生性能，亲手打造“小而美、零云端、用完即走”的工具，把速度、静默与掌控权重新交还给用户。
 
-This is **Ockham's Hunter Workshop**. Guided by first principles, we wield Ockham’s razor under deliberate self-imposed **Vows & Limitations** to craft fast, clean, and purposeful software.
+This is **Ockham's Hunter Workshop**. Guided by first principles, we wield Ockham’s razor under **Vows & Limitations** to craft fast, clean, and purposeful software.
 
 The stricter the constraints, the sharper the edge. Too much modern software carries unnecessary weight—wrapping simple, local tasks in heavy frameworks, mandatory cloud accounts, and constant background activity.
 
